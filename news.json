@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "updated": "2026-10-19T15:15:00+02:00",
+  "items": [
+    {
+      "id": "2026-10-15-launch-trailer",
+      "title": "GTA VI Launch Trailer is out",
+      "summary": "Rockstar released the official Launch Trailer, featuring \"Flower in a Hurricane\". Release stays November 19 on PS5 and Xbox Series X|S.",
+      "body": "Rockstar Games has released the official Launch Trailer for Grand Theft Auto VI. It debuts \"Flower in a Hurricane\" by Justice feat. Tame Impala, SZA and King Gizzard & The Lizard Wizard, from the game's original score. The release date stays November 19, 2026 on PlayStation 5 and Xbox Series X|S.",
+      "source": "Rockstar Games Newswire",
+      "url": "https://www.rockstargames.com/newswire/article/517572321a549a/watch-the-grand-theft-auto-vi-launch-trailer",
+      "date": "2026-10-15",
+      "badge": "official"
+    },
+    {
+      "id": "2026-10-08-radio-stations",
+      "title": "First six radio stations revealed",
+      "summary": "Rockstar previewed six in-game stations, including Flash FM, Cocoteo FM and Back Country Radio, plus on-demand podcasts.",
+      "body": "Rockstar Games has previewed the first six radio stations of Grand Theft Auto VI, including Flash FM, Cocoteo FM and Back Country Radio. The game also gets on-demand podcasts, and radio and podcasts can be heard on foot with headphones too.",
+      "source": "Rockstar Games Newswire",
+      "url": "https://www.rockstargames.com/newswire/article/o3982oa93a23k4/the-music-of-grand-theft-auto-vi-in-game-radio-stations",
+      "date": "2026-10-08",
+      "badge": "official"
+    },
+    {
+      "id": "2026-10-06-xbox-cloud",
+      "title": "Xbox Cloud Gaming to stream GTA VI at launch",
+      "summary": "Xbox Cloud Gaming will stream GTA VI on consoles from day one. The deal is not exclusive and doesn't include PC.",
+      "body": "The Verge reports that Xbox Cloud Gaming will stream Grand Theft Auto VI on consoles at launch. The story was later corrected: according to Xbox, the deal is not exclusive and streaming to PC is not included.",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights",
+      "date": "2026-10-06",
+      "badge": "reported"
+    }
+  ]
+}
