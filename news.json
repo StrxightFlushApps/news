@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-10-19T15:15:00+02:00",
+  "updated": "2026-10-20T08:38:07Z",
   "items": [
     {
       "id": "2026-10-15-launch-trailer",
@@ -11,6 +11,16 @@
       "url": "https://www.rockstargames.com/newswire/article/517572321a549a/watch-the-grand-theft-auto-vi-launch-trailer",
       "date": "2026-10-15",
       "badge": "official"
+    },
+    {
+      "id": "2026-10-14-bloomberg-making-of",
+      "title": "Bloomberg goes inside the making of GTA VI",
+      "summary": "In a Bloomberg Businessweek cover story, Rockstar's leads talk about the two delays and the 2022 leak, and say the next game won't take another eight years.",
+      "body": "Rockstar has grown from 2,441 people in 2018 to 4,711 across 12 studios, according to the report. Studio lead Phil Hooker says \"the game is never completely settled\" and that the new engine, tools and team should make the next game faster to build. Rockstar rejects the widely cited $1.5 billion budget figure.",
+      "source": "Bloomberg",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-still-undergoing-changes-despite-releasing-next-month-rockstar-boss-says-the-game-is-never-completely-settled/",
+      "date": "2026-10-14",
+      "badge": "reported"
     },
     {
       "id": "2026-10-08-radio-stations",
