@@ -1,7 +1,27 @@
 {
   "version": 1,
-  "updated": "2026-10-20T08:38:07Z",
+  "updated": "2026-10-21T08:08:20Z",
   "items": [
+    {
+      "id": "2026-10-20-sensor-tower-preorders",
+      "title": "GTA VI digital pre-orders pass 6.45 million",
+      "summary": "Sensor Tower estimates 6.45 million digital pre-orders worth about $630 million as of October 18, with 74% on PlayStation. Rockstar and Take-Two haven't confirmed any figures.",
+      "body": "Market intelligence firm Sensor Tower estimates that Grand Theft Auto VI has reached about 6.45 million digital pre-orders as of October 18, worth roughly $630 million. According to the estimate, 74% of these pre-orders were made on PlayStation. Rockstar Games and Take-Two Interactive have not confirmed any pre-order figures.",
+      "source": "TechPowerUp",
+      "url": "https://www.techpowerup.com/353934/gta-6-digital-pre-orders-climb-to-6-45-million-playstation-holds-74-share",
+      "date": "2026-10-20",
+      "badge": "reported"
+    },
+    {
+      "id": "2026-10-20-weapon-wheel-schreier",
+      "title": "Rockstar spent years trying to replace the weapon wheel",
+      "summary": "Bloomberg's Jason Schreier says Rockstar tested trays, webs and other layouts for GTA VI's limited, Red Dead-style loadouts before going back to a classic weapon wheel.",
+      "body": "According to Bloomberg reporter Jason Schreier, Rockstar spent a long time testing alternatives to the weapon wheel for Grand Theft Auto VI. The experiments, including trays, webs and other layouts, were meant to support more limited, Red Dead-style loadouts. Rockstar reportedly returned to a classic weapon wheel in the end.",
+      "source": "TechRadar",
+      "url": "https://www.techradar.com/gaming/rockstar-spent-months-if-not-years-trying-a-million-different-things-that-would-replace-the-weapon-wheel-to-make-loadouts-more-realistic-in-gta-6",
+      "date": "2026-10-20",
+      "badge": "reported"
+    },
     {
       "id": "2026-10-15-launch-trailer",
       "title": "GTA VI Launch Trailer is out",
