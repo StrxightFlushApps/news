@@ -1,7 +1,17 @@
 {
   "version": 1,
-  "updated": "2026-10-21T08:08:20Z",
+  "updated": "2026-10-22",
   "items": [
+    {
+      "id": "2026-10-21-narrower-roads-schreier",
+      "title": "GTA VI's roads are significantly narrower than GTA V's",
+      "summary": "Rockstar's Aaron Garbut says GTA VI's roads were made much narrower on purpose, for denser traffic and more buildings.",
+      "body": "Rockstar's Aaron Garbut told Bloomberg's Jason Schreier that the roads in Grand Theft Auto VI were deliberately made much narrower than in GTA V. According to Garbut, this leads to denser traffic and leaves more space for buildings to fill the world.",
+      "source": "GameSpot",
+      "url": "https://www.gamespot.com/articles/gta-6-will-feature-lots-of-small-details-like-red-deads-dynamic-horse-testicle-physics/",
+      "date": "2026-10-21",
+      "badge": "reported"
+    },
     {
       "id": "2026-10-20-sensor-tower-preorders",
       "title": "GTA VI digital pre-orders pass 6.45 million",
