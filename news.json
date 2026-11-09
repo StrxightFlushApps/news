@@ -1,12 +1,32 @@
 {
   "version": 2,
-  "updated": "2026-10-27T19:39:40Z",
+  "updated": "2026-11-09T10:27:03Z",
   "items": [
     {
+      "id": "2026-11-03-preload-nov10-212gb",
+      "title": "GTA VI pre-load starts November 10, needs up to 212 GB",
+      "summary": "Rockstar and PlayStation moved digital pre-load to November 10. PS5 starts at local midnight; Xbox Series X|S at 12 a.m. GMT. Clear up to 212 GB. Code-in-box editions arrive November 12.",
+      "body": "Rockstar Games announced that Grand Theft Auto VI digital pre-loading begins on November 10, two days earlier than the previously reported November 12 window. PlayStation 5 downloads open at midnight local time; Xbox Series X|S opens globally at 12 a.m. GMT. Rockstar says the pre-load file needs up to 212 GB depending on the device, matching PlayStation's guidance to reserve 212 GB on PS5.",
+      "source": "Rockstar Games",
+      "url": "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10",
+      "date": "2026-11-03",
+      "badge": "official"
+    },
+    {
+      "id": "gta-vi-launch-gallery-2026-11-05",
+      "title": "Rockstar opens GTA VI Launch Gallery with nearly 40 new screenshots",
+      "summary": "Two weeks before launch, Rockstar posted a Launch Gallery of nearly 40 new official screenshots of Jason, Lucia, Vice City and Leonida. The official screenshot library is now at 138 images.",
+      "body": "Rockstar announced its GTA VI Launch Gallery on November 5, two weeks before the November 19 launch. The collection features new images of Jason, Lucia, Vice City and locations across Leonida, with public reports counting 38–39 new screenshots. Rockstar's official downloads page now lists 138 screenshots in its downloadable library.",
+      "source": "Rockstar Games",
+      "url": "https://www.rockstargames.com/VI/launch-gallery",
+      "date": "2026-11-05",
+      "badge": "official"
+    },
+    {
       "id": "2026-10-27-ps5-210gb-file-size",
-      "title": "GTA VI reportedly needs 210 GB on PS5",
-      "summary": "PlayStation Store sleuth PlayStation Game Size says the Standard Edition needs about 210 GB on PS5. Preload starts November 12; Xbox size still unknown. Rockstar hasn't confirmed the figure.",
-      "body": "According to PlayStation Game Size, which tracks PlayStation Store data, Grand Theft Auto VI's Standard Edition ($79.99) will require about 210 GB of storage on PS5. Size details for the Ultimate Edition and for Xbox Series X|S were not listed. Preloading begins on November 12, one week before the November 19 launch. Rockstar Games has not officially confirmed the file size.",
+      "title": "Early report put GTA VI at about 210 GB on PS5",
+      "summary": "PlayStation Store data tracker PlayStation Game Size first reported about 210 GB for the Standard Edition on PS5. Rockstar has since confirmed pre-load starts November 10 and needs up to 212 GB.",
+      "body": "According to PlayStation Game Size, which tracks PlayStation Store data, Grand Theft Auto VI's Standard Edition ($79.99) was listed at about 210 GB of storage on PS5. Rockstar Games later confirmed that digital pre-loading begins on November 10, not November 12 as first reported, and that the pre-load needs up to 212 GB depending on the device. The game launches on November 19.",
       "source": "GameSpot",
       "url": "https://www.gamespot.com/articles/gta-6-file-size-revealed-and-its-massive/",
       "date": "2026-10-27",
