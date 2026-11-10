@@ -1,7 +1,17 @@
 {
   "version": 2,
-  "updated": "2026-11-09T10:27:03Z",
+  "updated": "2026-11-10T10:12:30Z",
   "items": [
+    {
+      "id": "2026-11-09-take-two-development-complete",
+      "title": "Take-Two: Rockstar has completed development of GTA VI",
+      "summary": "On Take-Two's November 9 earnings call, CEO Strauss Zelnick said Rockstar has finished developing GTA VI and that pre-orders are tracking far above expectations. No pre-order numbers were given.",
+      "body": "\"Right now, Rockstar has completed the development of GTA VI,\" Take-Two CEO Strauss Zelnick said on the company's November 9 earnings call. Take-Two says pre-orders are \"continuing to reach unprecedented levels\" and are tracking far in excess of its initial expectations, but it didn't share a figure. The launch stays November 19 on PS5 and Xbox Series X|S.",
+      "source": "Take-Two Interactive",
+      "url": "https://taketwointeractivesoftwareinc.gcs-web.com/news-releases/news-release-details/take-two-interactive-software-inc-reports-results-fiscal-4/",
+      "date": "2026-11-09",
+      "badge": "official"
+    },
     {
       "id": "2026-11-03-preload-nov10-212gb",
       "title": "GTA VI pre-load starts November 10, needs up to 212 GB",
