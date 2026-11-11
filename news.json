@@ -1,7 +1,17 @@
 {
   "version": 2,
-  "updated": "2026-11-10T10:20:49Z",
+  "updated": "2026-11-11T08:42:44Z",
   "items": [
+    {
+      "id": "2026-11-10-preorder-records-rolling-midnight",
+      "title": "GTA VI is the most pre-ordered game ever on PlayStation Store and Microsoft Store",
+      "summary": "Sony and Microsoft both call GTA VI their biggest pre-order of all time. The game unlocks at midnight local time on November 19, country by country.",
+      "body": "Sony says Grand Theft Auto VI is now the most pre-ordered game in PlayStation Store history, and Microsoft calls it the most pre-ordered title of all time on the Microsoft Store. Neither company shared a figure. On PS5, the game unlocks in a rolling midnight launch by country, starting at 12:00 a.m. NZDT in New Zealand on November 19.",
+      "source": "PlayStation.Blog",
+      "url": "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/",
+      "date": "2026-11-10",
+      "badge": "official"
+    },
     {
       "id": "2026-11-09-take-two-development-complete",
       "title": "Take-Two: Rockstar has completed development of GTA VI",
