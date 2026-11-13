@@ -1,7 +1,17 @@
 {
   "version": 2,
-  "updated": "2026-11-11T08:42:44Z",
+  "updated": "2026-11-13T08:53:07Z",
   "items": [
+    {
+      "id": "2026-11-12-sensor-tower-11m-preorders",
+      "title": "GTA VI pre-orders pass an estimated 11 million and $1 billion",
+      "summary": "Sensor Tower now estimates 11.27 million pre-purchases worth about $1.09 billion, with 75% on PS5. Rockstar and Take-Two haven't confirmed any figures (not confirmed).",
+      "body": "Market research firm Sensor Tower estimates that Grand Theft Auto VI has reached 11.27 million pre-purchased units, about $1.09 billion in gross revenue, with 8.46 million on PS5 and 2.81 million on Xbox Series X|S. Sensor Tower projects up to 25 million pre-purchases by launch. These figures are not confirmed by Rockstar Games or Take-Two Interactive.",
+      "source": "GameSpot",
+      "url": "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/",
+      "date": "2026-11-12",
+      "badge": "reported"
+    },
     {
       "id": "2026-11-10-preorder-records-rolling-midnight",
       "title": "GTA VI is the most pre-ordered game ever on PlayStation Store and Microsoft Store",
@@ -50,16 +60,6 @@
       "source": "GameSpot",
       "url": "https://www.gamespot.com/articles/gta-6-will-feature-lots-of-small-details-like-red-deads-dynamic-horse-testicle-physics/",
       "date": "2026-10-21",
-      "badge": "reported"
-    },
-    {
-      "id": "2026-10-20-sensor-tower-preorders",
-      "title": "GTA VI digital pre-orders pass 6.45 million",
-      "summary": "Sensor Tower estimates 6.45 million digital pre-orders worth about $630 million as of October 18, with 74% on PlayStation. Rockstar and Take-Two haven't confirmed any figures.",
-      "body": "Market intelligence firm Sensor Tower estimates that Grand Theft Auto VI has reached about 6.45 million digital pre-orders as of October 18, worth roughly $630 million. According to the estimate, 74% of these pre-orders were made on PlayStation. Rockstar Games and Take-Two Interactive have not confirmed any pre-order figures.",
-      "source": "TechPowerUp",
-      "url": "https://www.techpowerup.com/353934/gta-6-digital-pre-orders-climb-to-6-45-million-playstation-holds-74-share",
-      "date": "2026-10-20",
       "badge": "reported"
     },
     {
