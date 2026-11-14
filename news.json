@@ -1,15 +1,25 @@
 {
   "version": 2,
-  "updated": "2026-11-13T08:53:07Z",
+  "updated": "2026-11-14T08:45:00Z",
   "items": [
     {
-      "id": "2026-11-12-sensor-tower-11m-preorders",
-      "title": "GTA VI pre-orders pass an estimated 11 million and $1 billion",
-      "summary": "Sensor Tower now estimates 11.27 million pre-purchases worth about $1.09 billion, with 75% on PS5. Rockstar and Take-Two haven't confirmed any figures (not confirmed).",
-      "body": "Market research firm Sensor Tower estimates that Grand Theft Auto VI has reached 11.27 million pre-purchased units, about $1.09 billion in gross revenue, with 8.46 million on PS5 and 2.81 million on Xbox Series X|S. Sensor Tower projects up to 25 million pre-purchases by launch. These figures are not confirmed by Rockstar Games or Take-Two Interactive.",
+      "id": "2026-11-13-macca-and-friends",
+      "title": "First look at \"Macca & Friends\", an in-game TV show on Weazel",
+      "summary": "A first teaser shows Macca the Gator and his wetland friends. The show comes to Weazel in GTA VI on November 19.",
+      "body": "Rockstar shared the first look at \"Macca & Friends,\" an in-game TV series about a sunglass-wearing pink gator and his wetland friends across Leonida. The teaser sets up a story in which Macca needs money to pay his landlord, Pinchie the crab. The show is coming November 19 on the in-game network Weazel.",
       "source": "GameSpot",
-      "url": "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/",
-      "date": "2026-11-12",
+      "url": "https://www.gamespot.com/articles/gta-6-in-game-tv-show-macca-friends-looks-ridiculous-in-the-best-way/",
+      "date": "2026-11-13",
+      "badge": "official"
+    },
+    {
+      "id": "2026-11-13-sensor-tower-12m-preorders",
+      "title": "GTA VI pre-orders pass an estimated 12 million and $1.18 billion",
+      "summary": "Sensor Tower now estimates 12.13 million pre-purchases worth about $1.18 billion, with about 75% on PS5. Rockstar and Take-Two haven't confirmed any figures (not confirmed).",
+      "body": "Market research firm Sensor Tower estimates that Grand Theft Auto VI has reached about 12.13 million pre-purchased copies and $1.18 billion in revenue, with 9.08 million copies on PS5. That points to an average price of about $97, suggesting many buyers chose the Ultimate Edition. These figures are not confirmed by Rockstar Games or Take-Two Interactive.",
+      "source": "Polygon",
+      "url": "https://www.polygon.com/gta-6-preorders-1-billion-dollars-ps5-xbox-series-x/",
+      "date": "2026-11-13",
       "badge": "reported"
     },
     {
