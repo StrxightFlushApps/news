@@ -1,7 +1,17 @@
 {
-  "version": 2,
-  "updated": "2026-11-14T08:45:00Z",
+  "version": 3,
+  "updated": "2026-11-17T08:21:00Z",
   "items": [
+    {
+      "id": "2026-11-16-weather-channel-forecast",
+      "title": "Rockstar shows GTA VI's rebuilt weather in six new screenshots",
+      "summary": "Rockstar gave The Weather Channel six new screenshots, presented as a forecast for Leonida, from sea fog to a tropical storm.",
+      "body": "Rockstar Games shared six new Grand Theft Auto VI screenshots through The Weather Channel, written up as an in-character forecast for Leonida with heavy rain in the Keys, a storm over Pelican Valley, sea fog at South Ocean Beach and a tropical storm at the Rusty Anchor. Rockstar's Owen Shepherd, VP of art for light and rendering, says the team had to \"completely reimagine\" its weather systems to feel \"more localized, persistent, and above all dynamic.\" The game launches November 19 on PS5 and Xbox Series X|S.",
+      "source": "GamesRadar+",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-is-so-confident-in-gta-6s-weather-system-that-it-has-the-weather-channel-itself-sharing-new-screenshots/",
+      "date": "2026-11-16",
+      "badge": "official"
+    },
     {
       "id": "2026-11-13-macca-and-friends",
       "title": "First look at \"Macca & Friends\", an in-game TV show on Weazel",
