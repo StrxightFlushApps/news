@@ -1,12 +1,32 @@
 {
   "version": 3,
-  "updated": "2026-11-17T08:21:00Z",
+  "updated": "2026-11-19T09:10:00Z",
   "items": [
+    {
+      "id": "2026-11-19-gta-vi-out-now",
+      "title": "Grand Theft Auto VI is out now on PS5 and Xbox Series X|S",
+      "summary": "GTA VI is out now worldwide on PS5 and Xbox Series X|S. It unlocks at midnight local time, starting in New Zealand.",
+      "body": "Grand Theft Auto VI launched on November 19 on PlayStation 5 and Xbox Series X|S, unlocking at midnight local time around the world, starting in New Zealand. On PS5, Sony's required system software update has to be installed before you can play. On Xbox One and Series X|S the game can also be streamed through Xbox Cloud Gaming.",
+      "source": "PlayStation.Blog",
+      "url": "https://blog.playstation.com/2026/11/18/grand-theft-auto-vi-launches-tomorrow-november-19/",
+      "date": "2026-11-19",
+      "badge": "official"
+    },
+    {
+      "id": "2026-11-19-reviews-metacritic-99",
+      "title": "GTA VI reviews land with a 99 on Metacritic",
+      "summary": "GTA VI is getting near-perfect reviews and is tied with Ocarina of Time as Metacritic's highest-rated game.",
+      "body": "Reviews for Grand Theft Auto VI are in, with 10/10 from both GameSpot and IGN and 5/5 from Eurogamer, The Guardian and Bloomberg. GameSpot reports that this puts the game level with The Legend of Zelda: Ocarina of Time as the highest-rated game of all time on Metacritic. Review scores are press reports, not confirmed by Rockstar.",
+      "source": "GameSpot",
+      "url": "https://www.gamespot.com/articles/gta-6-is-apparently-everything-rockstar-promised-and-then-some/",
+      "date": "2026-11-19",
+      "badge": "reported"
+    },
     {
       "id": "2026-11-16-weather-channel-forecast",
       "title": "Rockstar shows GTA VI's rebuilt weather in six new screenshots",
       "summary": "Rockstar gave The Weather Channel six new screenshots, presented as a forecast for Leonida, from sea fog to a tropical storm.",
-      "body": "Rockstar Games shared six new Grand Theft Auto VI screenshots through The Weather Channel, written up as an in-character forecast for Leonida with heavy rain in the Keys, a storm over Pelican Valley, sea fog at South Ocean Beach and a tropical storm at the Rusty Anchor. Rockstar's Owen Shepherd, VP of art for light and rendering, says the team had to \"completely reimagine\" its weather systems to feel \"more localized, persistent, and above all dynamic.\" The game launches November 19 on PS5 and Xbox Series X|S.",
+      "body": "Rockstar Games shared six new Grand Theft Auto VI screenshots through The Weather Channel, written up as an in-character forecast for Leonida with heavy rain in the Keys, a storm over Pelican Valley, sea fog at South Ocean Beach and a tropical storm at the Rusty Anchor. Rockstar's Owen Shepherd, VP of art for light and rendering, says the team had to \"completely reimagine\" its weather systems to feel \"more localized, persistent, and above all dynamic.\" The game launched November 19 on PS5 and Xbox Series X|S.",
       "source": "GamesRadar+",
       "url": "https://www.gamesradar.com/games/grand-theft-auto/rockstar-is-so-confident-in-gta-6s-weather-system-that-it-has-the-weather-channel-itself-sharing-new-screenshots/",
       "date": "2026-11-16",
@@ -15,8 +35,8 @@
     {
       "id": "2026-11-13-macca-and-friends",
       "title": "First look at \"Macca & Friends\", an in-game TV show on Weazel",
-      "summary": "A first teaser shows Macca the Gator and his wetland friends. The show comes to Weazel in GTA VI on November 19.",
-      "body": "Rockstar shared the first look at \"Macca & Friends,\" an in-game TV series about a sunglass-wearing pink gator and his wetland friends across Leonida. The teaser sets up a story in which Macca needs money to pay his landlord, Pinchie the crab. The show is coming November 19 on the in-game network Weazel.",
+      "summary": "A first teaser shows Macca the Gator and his wetland friends. The show came to Weazel in GTA VI on November 19.",
+      "body": "Rockstar shared the first look at \"Macca & Friends,\" an in-game TV series about a sunglass-wearing pink gator and his wetland friends across Leonida. The teaser sets up a story in which Macca needs money to pay his landlord, Pinchie the crab. The show came to the in-game network Weazel on November 19.",
       "source": "GameSpot",
       "url": "https://www.gamespot.com/articles/gta-6-in-game-tv-show-macca-friends-looks-ridiculous-in-the-best-way/",
       "date": "2026-11-13",
@@ -35,8 +55,8 @@
     {
       "id": "2026-11-10-preorder-records-rolling-midnight",
       "title": "GTA VI is the most pre-ordered game ever on PlayStation Store and Microsoft Store",
-      "summary": "Sony and Microsoft both call GTA VI their biggest pre-order of all time. The game unlocks at midnight local time on November 19, country by country.",
-      "body": "Sony says Grand Theft Auto VI is now the most pre-ordered game in PlayStation Store history, and Microsoft calls it the most pre-ordered title of all time on the Microsoft Store. Neither company shared a figure. On PS5, the game unlocks in a rolling midnight launch by country, starting at 12:00 a.m. NZDT in New Zealand on November 19.",
+      "summary": "Sony and Microsoft both call GTA VI their biggest pre-order of all time. The game unlocked at midnight local time on November 19, country by country.",
+      "body": "Sony says Grand Theft Auto VI is now the most pre-ordered game in PlayStation Store history, and Microsoft calls it the most pre-ordered title of all time on the Microsoft Store. Neither company shared a figure. On PS5, the game unlocked in a rolling midnight launch by country, starting at 12:00 a.m. NZDT in New Zealand on November 19.",
       "source": "PlayStation.Blog",
       "url": "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/",
       "date": "2026-11-10",
@@ -46,31 +66,11 @@
       "id": "2026-11-09-take-two-development-complete",
       "title": "Take-Two: Rockstar has completed development of GTA VI",
       "summary": "On Take-Two's November 9 earnings call, CEO Strauss Zelnick said Rockstar has finished developing GTA VI and that pre-orders are tracking far above expectations. No pre-order numbers were given.",
-      "body": "\"Right now, Rockstar has completed the development of GTA VI,\" Take-Two CEO Strauss Zelnick said on the company's November 9 earnings call. Take-Two says pre-orders are \"continuing to reach unprecedented levels\" and are tracking far in excess of its initial expectations, but it didn't share a figure. The launch stays November 19 on PS5 and Xbox Series X|S.",
+      "body": "\"Right now, Rockstar has completed the development of GTA VI,\" Take-Two CEO Strauss Zelnick said on the company's November 9 earnings call. Take-Two says pre-orders are \"continuing to reach unprecedented levels\" and are tracking far in excess of its initial expectations, but it didn't share a figure. The launch remained November 19 on PS5 and Xbox Series X|S.",
       "source": "Take-Two Interactive",
       "url": "https://taketwointeractivesoftwareinc.gcs-web.com/news-releases/news-release-details/take-two-interactive-software-inc-reports-results-fiscal-4/",
       "date": "2026-11-09",
       "badge": "official"
-    },
-    {
-      "id": "2026-11-03-preload-nov10-212gb",
-      "title": "GTA VI pre-load starts November 10, needs up to 212 GB",
-      "summary": "Rockstar and PlayStation moved digital pre-load to November 10. PS5 starts at local midnight; Xbox Series X|S at 12 a.m. GMT. Clear up to 212 GB. Code-in-box editions arrive November 12.",
-      "body": "Rockstar Games announced that Grand Theft Auto VI digital pre-loading begins on November 10, two days earlier than the previously reported November 12 window. PlayStation 5 downloads open at midnight local time; Xbox Series X|S opens globally at 12 a.m. GMT. Rockstar says the pre-load file needs up to 212 GB depending on the device, matching PlayStation's guidance to reserve 212 GB on PS5.",
-      "source": "Rockstar Games",
-      "url": "https://www.rockstargames.com/newswire/article/k4ak9okk485712/grand-theft-auto-vi-pre-load-begins-on-november-10",
-      "date": "2026-11-03",
-      "badge": "official"
-    },
-    {
-      "id": "2026-10-27-ps5-210gb-file-size",
-      "title": "Early report put GTA VI at about 210 GB on PS5",
-      "summary": "PlayStation Store data tracker PlayStation Game Size first reported about 210 GB for the Standard Edition on PS5. Rockstar has since confirmed pre-load starts November 10 and needs up to 212 GB.",
-      "body": "According to PlayStation Game Size, which tracks PlayStation Store data, Grand Theft Auto VI's Standard Edition ($79.99) was listed at about 210 GB of storage on PS5. Rockstar Games later confirmed that digital pre-loading begins on November 10, not November 12 as first reported, and that the pre-load needs up to 212 GB depending on the device. The game launches on November 19.",
-      "source": "GameSpot",
-      "url": "https://www.gamespot.com/articles/gta-6-file-size-revealed-and-its-massive/",
-      "date": "2026-10-27",
-      "badge": "reported"
     },
     {
       "id": "2026-10-21-narrower-roads-schreier",
@@ -95,8 +95,8 @@
     {
       "id": "2026-10-15-launch-trailer",
       "title": "GTA VI Launch Trailer is out",
-      "summary": "Rockstar released the official Launch Trailer, featuring \"Flower in a Hurricane\". Release stays November 19 on PS5 and Xbox Series X|S.",
-      "body": "Rockstar Games has released the official Launch Trailer for Grand Theft Auto VI. It debuts \"Flower in a Hurricane\" by Justice feat. Tame Impala, SZA and King Gizzard & The Lizard Wizard, from the game's original score. The release date stays November 19, 2026 on PlayStation 5 and Xbox Series X|S.",
+      "summary": "Rockstar released the official Launch Trailer, featuring \"Flower in a Hurricane\". Release remained November 19 on PS5 and Xbox Series X|S.",
+      "body": "Rockstar Games has released the official Launch Trailer for Grand Theft Auto VI. It debuts \"Flower in a Hurricane\" by Justice feat. Tame Impala, SZA and King Gizzard & The Lizard Wizard, from the game's original score. The release date remained November 19, 2026 on PlayStation 5 and Xbox Series X|S.",
       "source": "Rockstar Games Newswire",
       "url": "https://www.rockstargames.com/newswire/article/517572321a549a/watch-the-grand-theft-auto-vi-launch-trailer",
       "date": "2026-10-15",
@@ -124,9 +124,9 @@
     },
     {
       "id": "2026-10-06-xbox-cloud",
-      "title": "Xbox Cloud Gaming to stream GTA VI at launch",
-      "summary": "Xbox Cloud Gaming will stream GTA VI on consoles from day one. The deal is not exclusive and doesn't include PC.",
-      "body": "The Verge reports that Xbox Cloud Gaming will stream Grand Theft Auto VI on consoles at launch. The story was later corrected: according to Xbox, the deal is not exclusive and streaming to PC is not included.",
+      "title": "Xbox Cloud Gaming streams GTA VI at launch",
+      "summary": "Xbox Cloud Gaming streams GTA VI on consoles from day one. The deal is not exclusive and doesn't include PC.",
+      "body": "The Verge reports that Xbox Cloud Gaming streams Grand Theft Auto VI on consoles at launch. The story was later corrected: according to Xbox, the deal is not exclusive and streaming to PC is not included.",
       "source": "The Verge",
       "url": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights",
       "date": "2026-10-06",
