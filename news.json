@@ -1,6 +1,6 @@
 {
   "version": 3,
-  "updated": "2026-11-19T09:10:00Z",
+  "updated": "2026-11-20T10:10:00Z",
   "items": [
     {
       "id": "2026-11-19-gta-vi-out-now",
@@ -23,6 +23,16 @@
       "badge": "reported"
     },
     {
+      "id": "2026-11-19-sensor-tower-launch-24m",
+      "title": "GTA VI nears 25 million copies and $2.36 billion on day one, Sensor Tower estimates",
+      "summary": "Sensor Tower estimates 24.58 million copies and about $2.36 billion through launch day, about 75% on PS5. Rockstar and Take-Two haven't confirmed any figures (not confirmed).",
+      "body": "Sensor Tower estimates that Grand Theft Auto VI reached 24.58 million units through pre-purchases and launch-day sales, worth about $2.36 billion in gross revenue. 18.44 million of those copies are on PS5 and 6.15 million on Xbox Series X|S. Take-Two CEO Strauss Zelnick said the company will share official sales data soon; these figures are not confirmed.",
+      "source": "GameSpot",
+      "url": "https://www.gamespot.com/articles/gta-6-has-sold-almost-8-million-copies-so-far-and-ps5-is-dominating-the-split-of-course/",
+      "date": "2026-11-19",
+      "badge": "reported"
+    },
+    {
       "id": "2026-11-16-weather-channel-forecast",
       "title": "Rockstar shows GTA VI's rebuilt weather in six new screenshots",
       "summary": "Rockstar gave The Weather Channel six new screenshots, presented as a forecast for Leonida, from sea fog to a tropical storm.",
@@ -41,16 +51,6 @@
       "url": "https://www.gamespot.com/articles/gta-6-in-game-tv-show-macca-friends-looks-ridiculous-in-the-best-way/",
       "date": "2026-11-13",
       "badge": "official"
-    },
-    {
-      "id": "2026-11-13-sensor-tower-12m-preorders",
-      "title": "GTA VI pre-orders pass an estimated 12 million and $1.18 billion",
-      "summary": "Sensor Tower now estimates 12.13 million pre-purchases worth about $1.18 billion, with about 75% on PS5. Rockstar and Take-Two haven't confirmed any figures (not confirmed).",
-      "body": "Market research firm Sensor Tower estimates that Grand Theft Auto VI has reached about 12.13 million pre-purchased copies and $1.18 billion in revenue, with 9.08 million copies on PS5. That points to an average price of about $97, suggesting many buyers chose the Ultimate Edition. These figures are not confirmed by Rockstar Games or Take-Two Interactive.",
-      "source": "Polygon",
-      "url": "https://www.polygon.com/gta-6-preorders-1-billion-dollars-ps5-xbox-series-x/",
-      "date": "2026-11-13",
-      "badge": "reported"
     },
     {
       "id": "2026-11-10-preorder-records-rolling-midnight",
