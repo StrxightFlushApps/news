@@ -1,7 +1,27 @@
 {
   "version": 3,
-  "updated": "2026-11-20T10:10:00Z",
+  "updated": "2026-11-24T09:25:00Z",
   "items": [
+    {
+      "id": "2026-11-23-playstation-biggest-launch",
+      "title": "GTA VI is the biggest launch in PlayStation history",
+      "summary": "Sony says more than 39 million unique players have played GTA VI on PS5, a new record for any PlayStation launch.",
+      "body": "Sony says Grand Theft Auto VI is the biggest game launch in PlayStation history, with more than 39 million unique players on PS5. Through November 22, players logged 683 million hours, about 17.4 hours each on average, and the game set a new record for concurrent players on PlayStation. GTA VI was also the first game played on 70% of new PS5 consoles.",
+      "source": "PlayStation.Blog",
+      "url": "https://blog.playstation.com/2026/11/23/thank-you-for-making-grand-theft-auto-vi-the-biggest-launch-in-playstation-history/",
+      "date": "2026-11-23",
+      "badge": "official"
+    },
+    {
+      "id": "2026-11-23-title-update-01-002-002",
+      "title": "First GTA VI update fixes stuck weather, autosaves and crashes",
+      "summary": "Rockstar's first post-launch update, 01.002.002, is rolling out on PS5 and Xbox Series X|S with seven fixes.",
+      "body": "Rockstar released update 01.002.002 for GTA VI on November 23, rolling out in stages on PS5 (603.8 MB) and Xbox Series X|S (1.6 GB). It fixes crashes, weather that stopped changing, autosaves, missed phone calls that blocked story missions and a Wanted Level that could not be lost. The gym deadlift bar and partners not handing over bags for fences are fixed too.",
+      "source": "Polygon",
+      "url": "https://www.polygon.com/gta-6-update-today-ver-01002002-where-is-ps5-xbox-download-size-patch-notes/",
+      "date": "2026-11-23",
+      "badge": "official"
+    },
     {
       "id": "2026-11-19-gta-vi-out-now",
       "title": "Grand Theft Auto VI is out now on PS5 and Xbox Series X|S",
