@@ -1,7 +1,27 @@
 {
   "version": 3,
-  "updated": "2026-11-24T09:25:00Z",
+  "updated": "2026-11-28T09:55:00Z",
   "items": [
+    {
+      "id": "2026-11-27-alinea-week-one-53m",
+      "title": "GTA VI passes an estimated 53 million copies in its first week",
+      "summary": "Alinea Analytics estimates 53 million copies and $4.7 billion in revenue one week after launch (not confirmed).",
+      "body": "According to estimates from Alinea Analytics reported by Polygon, GTA VI sold about 53 million copies in the week after its November 19 launch, worth around $4.7 billion. The firm says more than 75% of those copies were sold on PS5 and that nearly 7 million players have already logged over 50 hours. Rockstar and Take-Two have not confirmed these figures (not confirmed).",
+      "source": "Polygon",
+      "url": "https://www.polygon.com/gta-6-how-much-sold-week-one-rockstar-games/",
+      "date": "2026-11-27",
+      "badge": "reported"
+    },
+    {
+      "id": "2026-11-26-criminal-profile-rockstar",
+      "title": "Rockstar explains why GTA VI adds consequences to violence and crime",
+      "summary": "Rob Nelson says the Criminal Profile system gives players choices \"beyond just down the barrel of a gun.\"",
+      "body": "Rockstar's Rob Nelson told Eurogamer that GTA VI's reactive world grew out of the work on Red Dead Redemption 2 and is meant to give players choices beyond violence. The Criminal Profile judges how harsh you are: a low-force robbery leaves it unchanged, while killing everyone lowers it. Players can still go on rampages until the profile breaks into an \"irredeemable\" state.",
+      "source": "IGN",
+      "url": "https://za.ign.com/grand-theft-auto-vi/246322/rockstar-explains-why-it-added-consequences-to-gta-6s-violence-and-crimes",
+      "date": "2026-11-26",
+      "badge": "official"
+    },
     {
       "id": "2026-11-23-playstation-biggest-launch",
       "title": "GTA VI is the biggest launch in PlayStation history",
